@@ -1,0 +1,8 @@
+semi: true
+printWidth: 140
+singleQuote: true
+overrides:
+  - files:
+      - "*.html"
+    options:
+      tabWidth: 4
